@@ -7,7 +7,7 @@
 ## Status de Desenvolvimento
 
   <p align = "center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=RED&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=orange&style=for-the-badge"/>
   </p>
   
 ## Integrantes
