@@ -11,7 +11,7 @@
   </p>
   
 ## Integrantes
-<div align="center">
+<div align="left">
   
 | [<img src="https://avatars.githubusercontent.com/u/127852282?v=4" width=115><br><sub>Felipe Custódio</sub>](https://github.com/FilipeCGEtec) | [<img src="https://avatars.githubusercontent.com/u/127897913?v=4" width=115><br><sub>Gabriele Batista</sub>](https://github.com/Gabriele-sousa) | [<img src="https://avatars.githubusercontent.com/u/128638269?v=4" width=115><br><sub>Letícia Lapa</sub>](https://github.com/LehLapa) |
 | :---: | :---: | :---: 
