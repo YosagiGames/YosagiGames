@@ -1,8 +1,15 @@
-<div align="center">
-<img height="600" src="https://github.com/YosagiGames/YosagiGames/assets/167644556/3309ba49-1e0e-4588-b1e7-b5129c457700">
+# Yosagi Games 
+<div align="left">
+<img height="300" src="https://github.com/YosagiGames/YosagiGames/assets/167644556/3309ba49-1e0e-4588-b1e7-b5129c457700">
 </div>
+- Descrição
 
+## Status de Desenvolvimento
 
+  <p align = "center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=RED&style=for-the-badge"/>
+  </p>
+  
 ## Integrantes
 <div align="center">
   
@@ -13,3 +20,6 @@
 | :---: | :---: | :---: 
   
 </div>
+
+## Copyright
+Copyright ©️ 2024 - Filipe Custódio, Gabriele Batista, Letícia Lapa, Mariana Santiago, Robert Caio e Yuri Telis (Yosagi Games)
