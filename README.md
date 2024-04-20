@@ -21,5 +21,8 @@
   
 </div>
 
+## <img src="https://terraria.wiki.gg/images/3/3d/Emote_Weather_Rainbow.gif"> Nos Acompanhe!
+<a href="https://www.instagram.com/yosagi.games/" target="_blanck"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 ## Copyright
 Copyright ©️ 2024 - Filipe Custódio, Gabriele Batista, Letícia Lapa, Mariana Santiago, Robert Caio e Yuri Telis (Yosagi Games)
