@@ -5,7 +5,7 @@
 
 </div>
 
-## Projeto
+## <img src="https://github.com/YosagiGames/YosagiGames/assets/167644556/a602978c-bff4-4cdf-8e4f-675de22c7932"> Projeto
 
 - #### <a href="https://github.com/YosagiGames/YosagiGames/wiki/Caos-Cruiser"> Nosso Projeto, Caos Cruiser! <a>
 
@@ -14,7 +14,8 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=orange&style=for-the-badge"/>
   </p>
 
-## Integrantes
+## <img src="https://github.com/YosagiGames/YosagiGames/assets/167644556/089c5bcd-2882-4178-8ce1-5032ec731fe1"> Integrantes
+
 
 <div align="center">
   
