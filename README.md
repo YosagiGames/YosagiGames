@@ -9,7 +9,8 @@
 
 - ### <a href="https://github.com/YosagiGames/YosagiGames/wiki/Caos-Cruiser"> Nosso Projeto, Caos Cruiser! <a>
 
-## Progresso Atual
+## <img height="25" src="https://stardewvalleywiki.com/mediawiki/images/4/47/Calendar_Flag_Anim.gif"> Progresso Atual
+
   <p align = "center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=orange&style=for-the-badge"/>
   </p>
