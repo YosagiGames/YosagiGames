@@ -12,7 +12,7 @@
 
 ## <img height="50" src="https://github.com/YosagiGames/YosagiGames/assets/167644556/0cbcd709-2c2b-444e-b889-d69fb573f9b3"> Integrantes
 
-<div align="left">
+<div align="center">
   
 | [<img src="https://avatars.githubusercontent.com/u/127852282?v=4" width=115><br><sub>Felipe Custódio</sub>](https://github.com/FilipeCGEtec) | [<img src="https://avatars.githubusercontent.com/u/127897913?v=4" width=115><br><sub>Gabriele Batista</sub>](https://github.com/Gabriele-sousa) | [<img src="https://avatars.githubusercontent.com/u/128638269?v=4" width=115><br><sub>Letícia Lapa</sub>](https://github.com/LehLapa) |
 | :---: | :---: | :---: 
