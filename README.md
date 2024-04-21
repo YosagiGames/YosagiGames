@@ -12,7 +12,7 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=orange&style=for-the-badge"/>
   </p>
 
-## <img height="50" src="https://github.com/YosagiGames/YosagiGames/assets/167644556/0cbcd709-2c2b-444e-b889-d69fb573f9b3"> Integrantes
+## Integrantes
 
 <div align="center">
   
