@@ -1,4 +1,4 @@
-# Yosagi Games 
+# <a href="https://github.com/YosagiGames/YosagiGames/wiki"> Yosagi Games <a>
 <div align="center">
   
 # <img height="700" src="https://github.com/YosagiGames/YosagiGames/assets/167644556/dc37a419-4535-4d62-a238-e337a7c5eff5">
