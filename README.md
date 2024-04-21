@@ -5,7 +5,7 @@
 
 </div>
 
-#### - <a href="https://github.com/YosagiGames/YosagiGames/wiki/Descrição"> Nosso Projeto, Caos Cruiser! <a>
+- #### <a href="https://github.com/YosagiGames/YosagiGames/wiki/Descrição"> Nosso Projeto, Caos Cruiser! <a>
 
 ## Status de Desenvolvimento
 
