@@ -8,7 +8,6 @@
 - #### <a href="https://github.com/YosagiGames/YosagiGames/wiki/Caos-Cruiser"> Nosso Projeto, Caos Cruiser! <a>
 
 ## Status de Desenvolvimento
-
   <p align = "center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=orange&style=for-the-badge"/>
   </p>
