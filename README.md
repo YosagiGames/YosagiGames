@@ -1,6 +1,6 @@
 # Yosagi Games 
 <div align="left">
-<img height="300" src="https://github.com/YosagiGames/YosagiGames/assets/167644556/3309ba49-1e0e-4588-b1e7-b5129c457700">
+<img height="300" src="https://github.com/YosagiGames/YosagiGames/assets/167644556/dc37a419-4535-4d62-a238-e337a7c5eff5">
 </div>
 - Descrição
 
