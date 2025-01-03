@@ -7,7 +7,9 @@
 
 ## <img height="25" src="https://github.com/YosagiGames/YosagiGames/assets/167644556/a602978c-bff4-4cdf-8e4f-675de22c7932"> Projeto
 
-- ### <a href="https://github.com/YosagiGames/YosagiGames/wiki/Caos-Cruiser"> Nosso Projeto, Caos Crusier! <a>
+- ### <a href="https://github.com/YosagiGames/CaosCrusier.git"> Nosso Projeto, Caos Crusier! <a>
+- ### <a href="https://github.com/YosagiGames/AppCaosCrusier.git"> Nosso Aplicativo Mobile <a>
+- ### <a href="https://github.com/YosagiGames/SiteEmpresa.git"> Nosso site <a>
 
 ## <img height="25" src="https://stardewvalleywiki.com/mediawiki/images/4/47/Calendar_Flag_Anim.gif"> Progresso Atual
 
