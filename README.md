@@ -12,7 +12,7 @@
 ## <img height="25" src="https://stardewvalleywiki.com/mediawiki/images/4/47/Calendar_Flag_Anim.gif"> Progresso Atual
 
   <p align = "center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=orange&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=darkgreen&style=for-the-badge"/>
   </p>
 
 ## <img height="25" src="https://github.com/YosagiGames/YosagiGames/assets/167644556/089c5bcd-2882-4178-8ce1-5032ec731fe1"> Integrantes
